@@ -8,8 +8,8 @@ In a future project, I will use React to create a front-end client that uses thi
 To complete this project, I used my knowledge of Node.js, Express, REST APIS, and Sequelize. To test my application, I used Postman, a popular application for exploring and testing REST APIs.
 
 ### Used Technologies
-JavaScript
-Node.js
-Express
-REST APIS
+JavaScript,
+Node.js,
+Express,
+REST APIS,
 Sequelize
